@@ -66,9 +66,6 @@ Profit: $860.00
 ---
 
 ## 📂 File Structure
-php
-Copy
-Edit
 project/
 ├── StrLinkedList.java       # Custom linked list class
 ├── LottoDraw.java           # Lottery simulation driver
