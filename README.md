@@ -66,11 +66,13 @@ Profit: $860.00
 ---
 
 ## 📂 File Structure
+```plaintext
 project/
 ├── StrLinkedList.java       # Custom linked list class
 ├── LottoDraw.java           # Lottery simulation driver
 ├── Node (inner class)       # Node structure for list
 └── README.md
+```
 
 ---
 
